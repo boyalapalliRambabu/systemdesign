@@ -1,4 +1,4 @@
-package com.myls.systemdesign.designpattern.creational;
+package com.myls.systemdesign.designpattern.creational.singleton;
 
 public class MainForSingleton {
 
